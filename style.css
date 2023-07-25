@@ -1,0 +1,25 @@
+#container{
+    width: 33vw;
+    margin: 4rem auto;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+input[type="text"]{
+    height: 50px;
+    font-size: 20px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    font-size: 30px;
+
+}
+
+input[type="checkbox"]{
+    zoom: 2;
+}
+
